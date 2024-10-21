@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <infotable>
+    <info name="Soulja Boy" icon="souljaboy.png" url="undefined" author="cgillam" genre="undefined" version="undefined" comment="undefined&#xD;&#xA;Built using PS3 Theme Builder" preview="preview.png" />
+    <localizedinfo locale="en" name="Soulja Boy Tell 'em" url="undefined" author="cgillam" genre="undefined" version="undefined" comment="undefined" />
+  </infotable>
+  <setable>
+  </setable>
+  <icontable>
+    <icon id="icon_user" src="User.png" />
+    <icon id="icon_setting" src="Icons.535.png" />
+    <icon id="icon_photo" src="icons1.png" />
+    <icon id="icon_music" src="icons16.png" />
+    <icon id="icon_video" src="Icons38.png" />
+    <icon id="icon_game" src="Icons39.png" />
+    <icon id="icon_network" src="icons18.png" />
+    <icon id="icon_friend" src="icons9.png" />
+    <icon id="icon_tv" src="Icons41.png" />
+    <icon id="icon_newuser" src="Icons37.png" />
+    <icon id="icon_update" src="icons17.png" />
+    <icon id="icon_game_setting" src="icons27.png" />
+    <icon id="icon_bdvd_setting" src="icons22.png" />
+    <icon id="icon_music_setting" src="icons29.png" />
+    <icon id="icon_chat_setting" src="icons24.png" />
+    <icon id="icon_system_setting" src="Icons36.png" />
+    <icon id="icon_theme_setting" src="icons23.png" />
+    <icon id="icon_datetime_setting" src="Icons25.png" />
+    <icon id="icon_accessory" src="icons28.png" />
+    <icon id="icon_printer_setting" src="icons31.png" />
+    <icon id="icon_display_setting" src="icons26.png" />
+    <icon id="icon_sound_setting" src="Icons34.png" />
+    <icon id="icon_security_setting" src="Icons33.png" />
+    <icon id="icon_remoteplay_setting" src="Icons32.png" />
+    <icon id="icon_network_setting" src="icons30.png" />
+    <icon id="icon_setting_item" src="icons3.png" />
+    <icon id="icon_photo_default" src="Photo_Default2.png" />
+    <icon id="icon_photo_album_default" src="Photo_Default.png" />
+    <icon id="icon_music_default" src="Music_Default_PS3.png" />
+    <icon id="icon_music_album_default" src="Music_Default.png" />
+    <icon id="icon_video_default" src="Video_Default.png" />
+    <icon id="icon_video_album_default" src="Video_Default.png" />
+    <icon id="icon_mediaserver_search" src="icons13.png" />
+    <icon id="icon_ms" src="Icons53.png" />
+    <icon id="icon_sd" src="Icons52.png" />
+    <icon id="icon_cf" src="Icons54.png" />
+    <icon id="icon_usb" src="icons50.png" />
+    <icon id="icon_pspms" src="icons43.png" />
+    <icon id="icon_usbcamera" src="icons45.png" />
+    <icon id="icon_usbaad" src="icons51.png" />
+    <icon id="icon_gamedata" src="icons8.png" />
+    <icon id="icon_savedata" src="icons14.png" />
+    <icon id="icon_vmc" src="icons5.png" />
+    <icon id="icon_newvmc" src="icons20,png.png" />
+    <icon id="icon_onlinemanual" src="Icons40.png" />
+    <icon id="icon_remoteplay" src="icons21.png" />
+    <icon id="icon_browser" src="icons2.png" />
+    <icon id="icon_download" src="icons49.png" />
+    <icon id="icon_accountmanage" src="icons7.png" />
+    <icon id="icon_blocklist" src="icons10.png" />
+    <icon id="icon_addfriend" src="icons11.png" />
+    <icon id="icon_playermet" src="icons12.png" />
+    <icon id="icon_chat" src="icons44.png" />
+    <icon id="icon_chatroom" src="incons42.png" />
+    <icon id="icon_mbox" src="icons15.png" />
+    <icon id="icon_mbox_received" src="icons47.png" />
+    <icon id="icon_mbox_sent" src="icons48.png" />
+    <icon id="icon_mbox_create" src="icons19.png" />
+  </icontable>
+  <bgimagetable>
+    <bgimage hd="souljaboytellem.jpg" sd="souljaboytellem2.jpg" />
+    <bgimage hd="superman.jpg" sd="superman2.jpg" />
+  </bgimagetable>
+  <pointertable>
+  </pointertable>
+  <font selection="0" />
+  <color selection="1" />
+</theme>
